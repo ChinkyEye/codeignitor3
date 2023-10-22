@@ -11,5 +11,20 @@ class User extends CI_Controller
 		$this->load->view('user',$data);
 	}
 
+	public function create()
+	{
+
+	}
+
+	public function edit()
+	{
+
+	}
+
+	public function delete()
+	{
+
+	}
+
 }
 ?>
